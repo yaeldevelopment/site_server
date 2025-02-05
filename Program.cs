@@ -9,7 +9,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", policyBuilder =>
     {
-        policyBuilder.WithOrigins("http://localhost:4200") // Specify allowed origins
+        policyBuilder.WithOrigins("https://site-ahuu.onrender.com") // Specify allowed origins
                      .AllowAnyMethod() // Allow all HTTP methods (GET, POST, PUT, DELETE, etc.)
                      .AllowAnyHeader(); // Allow all headers
     });
