@@ -1,0 +1,6 @@
+@WebApplication14_HostAddress = http://localhost:5199
+
+GET {{WebApplication14_HostAddress}}/apartment/
+Accept: application/json
+
+###

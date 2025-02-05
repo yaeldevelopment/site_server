@@ -1,0 +1,85 @@
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\appsettings.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.staticwebassets.endpoints.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.exe
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.deps.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.runtimeconfig.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.pdb
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.AssemblyInfo.cs
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\scopedcss\bundle\WebApplication14.styles.css
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication14.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication14.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApplication14.props
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication14.props
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplication14.props
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebAppli.253C2278.Up2Date
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\refint\WebApplication14.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.pdb
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.genruntimeconfig.cache
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\obj\Debug\net9.0\ref\WebApplication14.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\source\repos\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\appsettings.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.exe
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.deps.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.runtimeconfig.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\WebApplication14.pdb
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\AWSSDK.Core.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\AWSSDK.SecurityToken.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\DnsClient.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\MongoDB.Driver.Core.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\MongoDB.Libmongocrypt.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Snappier.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\bin\Debug\net9.0\runtimes\win\native\mongocrypt.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.AssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\scopedcss\bundle\WebApplication14.styles.css
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication14.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication14.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApplication14.props
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication14.props
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplication14.props
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebAppli.253C2278.Up2Date
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\refint\WebApplication14.dll
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.pdb
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\WebApplication14.genruntimeconfig.cache
+C:\Users\user1\Desktop\שנה ב\c#_and_mongo_angular\WebApplication14\WebApplication14\obj\Debug\net9.0\ref\WebApplication14.dll

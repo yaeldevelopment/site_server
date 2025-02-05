@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication14.Controllers.FunctionController",
+    "Method": "Send_Mail",
+    "RelativePath": "api/Function",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "WebApplication14.Controllers.FunctionController\u002BFormData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
